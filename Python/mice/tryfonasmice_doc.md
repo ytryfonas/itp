@@ -8,4 +8,4 @@
 
 - I used the 'print()' function, which is mentioned on chapter 1.3 of the book "Think Python: How to Think Like a Computer Scientist" by Allen Downey
 
-- I also used ''\n', which is mentioned on chapter 5.11 of the book "Think Python: How to Think Like a Computer Scientist" by Allen Downey
+- I also used '\n', which is mentioned on chapter 5.11 of the book "Think Python: How to Think Like a Computer Scientist" by Allen Downey
