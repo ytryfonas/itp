@@ -1,2 +1,2 @@
-x = 3
-print(" \n   ",x ,"\n      Blind\n        Mice\n ")
+x = 2 + 1
+print("\n\t",x,"\n\t\tBlind\n\t\t\tMice\n")
